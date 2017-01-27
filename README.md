@@ -1,12 +1,12 @@
 # Folme Online,Site Inc.
-> My Internet I call the shots     
-
-This is aInternet Resource Sharing Community Portal    
+> This is aInternet Resource Sharing Community Portal    
 
 #### Folme.Online Logo    
-![Folme Logo](http://folme.ga/Img/Folme-1.png)   
+![Folme Logo](http://folme.ga/Img/Folme-1.png)     
+**`F.E.L'** for short    
 
 
+##### **My Internet I Call The Shots 
 #### About us
 [Folme.Online][id01]  Official Website
 eMail <admin@folme.online> Link.  
