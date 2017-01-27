@@ -3,10 +3,10 @@
 
 #### Folme.Online Logo    
 ![Folme Logo](http://folme.ga/Img/Folme-1.png)     
-**`F.E.L'** for short    
+for shot **`F.E.L'**    
 
 
-##### **My Internet I Call The Shots 
+##### **My Internet I Call The Shots** 
 #### About us
 [Folme.Online][id01]  Official Website
 eMail <admin@folme.online> Link.  
