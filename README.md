@@ -1,6 +1,8 @@
 # Folme Online,Site Inc.
-## My Internet I call the shots    
-> This is aInternet Resource Sharing Community Portal   
+> My Internet I call the shots     
+
+This is aInternet Resource Sharing Community Portal    
+
 #### Folme.Online Logo    
 ![Folme Logo](http://folme.ga/Img/Folme-1.png)   
 
